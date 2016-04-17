@@ -1,0 +1,2 @@
+this is the reflections txt file written in sublime
+What happens when you initialize a repository? Why do you need to do it?
